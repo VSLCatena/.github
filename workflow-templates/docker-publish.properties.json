@@ -1,0 +1,13 @@
+{
+    "name": "Docker Publish Workflow",
+    "description": "Docker Publish CI starter workflow.",
+    "iconName": "octicon package",
+    "categories": [
+        "Docker"
+    ],
+    "filePatterns": [
+        "^docker-compose\\.yml",
+        "^src\\Dockerfile$",
+        "^Dockerfile$"
+    ]
+}
